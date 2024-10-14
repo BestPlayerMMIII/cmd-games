@@ -2,7 +2,7 @@
 A repository with simple cmd games for windows in C and C++
 
 ## hangman
-1. Download [hangman.zip](hangman.zip);
+1. Download [hangman.zip](https://github.com/BestPlayerMMIII/cmd-games/raw/main/hangman.zip);
 
 3. Extract all in the same directory;
 
