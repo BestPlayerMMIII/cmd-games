@@ -52,7 +52,11 @@ public:
 		char ch;
 		string s("");
 		f.open("vocabulary.txt");
-		if(!f.is_open()) return;
+		if(!f.is_open()) {
+			cout<<"Error: you must include a file named 'vocabulary.txt' in the same directory as this executable!\n";
+			system("PAUSE");
+			exit(1);
+		}
 		while(true){
 			f.get(ch);
 			if(f.eof()) break;
