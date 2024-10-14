@@ -2,6 +2,14 @@
 A repository with simple cmd games for windows in C and C++
 
 ## hangman
-Download [hangman/hangman.exe](hangman/hangman.exe) and [hangman/vocabulary.txt](hangman/vocabulary.txt) in the same directory.\
-You can change the words inside ```vocabulary.txt``` and the game will use the words set, one for each row in the file.\
-To play double-click on ```hangman.exe```.
+1. Download [hangman.zip](hangman.zip);
+
+3. Extract all in the same directory;
+
+4. Double-click hangman.exe to play.
+
+**Warning: Windows protected your computer**\
+To solve this *issue* you can: click `More info` and then click `Run anyway`.
+
+**Note**\
+You can change the words inside `vocabulary.txt` and the game will use the words set, one for each row in the file.
